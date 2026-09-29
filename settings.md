@@ -18,5 +18,6 @@ Argument syntax:
 /tldr medium               level shortcut (bare word)
 /tldr --code diff          one setting
 /tldr light --scope chat   several
+/tldr <question>           ask and turn the mode on
 /tldr off                  end the mode
 ```
